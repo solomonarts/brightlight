@@ -1,5 +1,5 @@
 import { React } from "react";
-import allocationpic from "../assets/images/bg/allocation.png";
+import allocationpic from "../assets/images/bg/allocation.jpeg";
 
 const AllocationSection = () => (
   <section
