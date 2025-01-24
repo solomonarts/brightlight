@@ -36,7 +36,7 @@ const FAQSection = () => (
             What is a meme?
           </summary>
           <p className="p-4">
-            meme is a digital expression, often in the form of an image, text,
+            A meme is a digital expression, often in the form of an image, text,
             or artwork, that conveys a cultural or emotional idea. In the
             context of the $BOBI WINE meme project, memes are unique digital
             creations minted on the blockchain that represent values like hope,
