@@ -22,16 +22,16 @@ const TermsDock = ({ openDock, setOpenDock }) => {
             <button className="close-button" onClick={toggleDock}>
               &times;
             </button>
-            <h2>Terms and Conditions for $BBBB Meme Coin</h2>
+            <h2>Terms and Conditions for $BOBI WINE Memes</h2>
             <p>Last Modified: 20th Jan 2025</p>
 
             <h3>Website Ownership: </h3>
             <p>
-              This website, located at www.bbbbb.meme (the “Website”), is a
-              community-owned platform managed entirely by the BBBBB meme coin
-              holders. These Terms and Conditions incorporate by reference our
-              Privacy Policy and any other relevant policies or terms that may
-              be published from time to time.
+              This website, located at www.bobiwinememe.com (the “Website”), is
+              a community-owned platform managed entirely by the $BOBI WINE
+              Memes holders. These Terms and Conditions incorporate by reference
+              our Privacy Policy and any other relevant policies or terms that
+              may be published from time to time.
             </p>
 
             <h3>Acceptance of Terms: </h3>
@@ -43,7 +43,7 @@ const TermsDock = ({ openDock, setOpenDock }) => {
 
             <h3>Services Description: </h3>
             <p>
-              The Website serves as an access point for the BBBBB meme coin, a
+              The Website serves as an access point for the $BOBI WINE Memes, a
               Solana blockchain-based asset symbolizing support for the ideals
               represented by $BOBIWINE. This coin is intended for community
               engagement and is not an investment or financial instrument.
@@ -102,7 +102,7 @@ const TermsDock = ({ openDock, setOpenDock }) => {
 
             <h3>Transactions</h3>
             <p>
-              All transactions involving BBBBB meme coins are final and
+              All transactions involving $BOBI WINE Memess are final and
               non-refundable. The value of these coins can be highly volatile.
             </p>
 
@@ -122,7 +122,7 @@ const TermsDock = ({ openDock, setOpenDock }) => {
 
             <h3>Limitation of Liability: </h3>
             <p>
-              The community of BBBBB meme coin holders will not be liable for
+              The community of $BOBI WINE Memes holders will not be liable for
               any damages that arise from your use of the Website or your
               inability to use it. This includes, but is not limited to, data
               loss or lost profits.
@@ -145,7 +145,8 @@ const TermsDock = ({ openDock, setOpenDock }) => {
             <h3>Contact Us:</h3>
             <p>
               For questions or concerns about these Terms and Conditions, please
-              contact community support at <strong>support@bbbbb.meme.</strong>
+              contact community support at{" "}
+              <strong>support@bobiwinememe.com.</strong>
             </p>
           </div>
           {/* Click outside the dock to close */}

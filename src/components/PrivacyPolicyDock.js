@@ -22,17 +22,17 @@ const PrivacyPolicyDock = ({ openDock, setOpenDock }) => {
             <button className="close-button" onClick={toggleDock}>
               &times;
             </button>
-            <h2>Privacy Policy for BBBBB Meme Coin</h2>
+            <h2>Privacy Policy for $BOBI WINE Memes</h2>
             <p>Effective Date: dd/mm/yyyy</p>
 
             <h3>Overview</h3>
             <p>
               This Privacy Policy outlines the types of personal information
-              that may be collected through the www.bbbbb.meme website (the
-              “Website”), how it may be used, and the efforts to protect it. It
-              is important to note that because the Website operates on a fully
-              decentralized platform, traditional data control and processing by
-              a central entity do not apply.
+              that may be collected through the www.bobiwinememe.com website
+              (the “Website”), how it may be used, and the efforts to protect
+              it. It is important to note that because the Website operates on a
+              fully decentralized platform, traditional data control and
+              processing by a central entity do not apply.
             </p>
 
             <h3>Data Collection</h3>
@@ -114,7 +114,7 @@ const PrivacyPolicyDock = ({ openDock, setOpenDock }) => {
             <p>
               For questions or concerns about this Privacy Policy, please
               contact the community support at{" "}
-              <strong>support@bbbbb.meme</strong>.
+              <strong>support@bobiwinememe.com</strong>.
             </p>
           </div>
           {/* Click outside the dock to close */}

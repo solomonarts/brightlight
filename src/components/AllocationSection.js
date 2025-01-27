@@ -9,7 +9,7 @@ const AllocationSection = () => (
     <div className="container px-4 mx-auto text-center">
       <h2 className="mb-8 text-5xl font-bold text-[#ff0000]">Allocation</h2>
       <p className="text-white mb-8 text-[20px]">
-        There are 100 million $BOBI available on day one and will grow to a
+        There are 212,500,000 $BOBI available on day one and will grow to a
         total of 1 billion $BOBI over three years. Each group's allocation are
         released on their own schedule over 3 years.
       </p>
