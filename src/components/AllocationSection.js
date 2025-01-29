@@ -1,7 +1,7 @@
 import { React } from "react";
 import allocationpic from "../assets/images/bg/allocation.jpeg";
 
-const AllocationSection = () => (
+const AllocationSection = ({ openDock }) => (
   <section
     id="allocation"
     className="py-16 bg-gradient-to-t from-[#210000] to-black border-b-[#ff0000] border-b-4 allocation lg:px-24 xl:px-72"
@@ -25,7 +25,20 @@ const AllocationSection = () => (
         community. The BOBI Meme embodies resilience and unity, inspired by the
         strength to rise above adversity and fight for a future where freedom
         and opportunity thrive. Together, we stand for ideals that lift us all.
-        Rise with BOBI! ✊ Here, See Card Allocation Here
+        Rise with BOBI! ✊{" "}
+        <span
+          className="text-yellow-500 cursor-pointer"
+          onClick={() => openDock("terms")}
+        >
+          Here
+        </span>
+        , See Privacy Policy{" "}
+        <span
+          className="text-yellow-500 cursor-pointer"
+          onClick={() => openDock("privacy")}
+        >
+          Here
+        </span>
       </p>
     </div>
   </section>

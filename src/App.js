@@ -37,7 +37,7 @@ function App() {
       <HeroSection openDock={(dock) => openDock(dock)} />
       <AboutSection />
       <ContactAddress />
-      <AllocationSection />
+      <AllocationSection openDock={(dock) => openDock(dock)} />
       <BuySection openDock={(dock) => openDock(dock)} />
       <MemeCommunitySection />
       <FAQSection />
