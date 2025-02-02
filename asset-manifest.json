@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/brightlight/static/css/main.7f92df7e.css",
-    "main.js": "/brightlight/static/js/main.c9cfd9e3.js",
+    "main.js": "/brightlight/static/js/main.a1a261cf.js",
     "static/js/453.52c63e2b.chunk.js": "/brightlight/static/js/453.52c63e2b.chunk.js",
-    "static/media/bbg3.png": "/brightlight/static/media/bbg3.9ddede0146140a51f76e.png",
-    "static/media/bbpic1.png": "/brightlight/static/media/bbpic1.8a8744a9c0b8fb2c1f1c.png",
-    "static/media/bbg4.png": "/brightlight/static/media/bbg4.905990d1a8ebde0a3534.png",
-    "static/media/allocation.jpeg": "/brightlight/static/media/allocation.2a4dd3c2b6186634f1f1.jpeg",
-    "static/media/maingb5.jpg": "/brightlight/static/media/maingb5.90a89eda70cf0d280c93.jpg",
+    "static/media/bbg4.png": "/brightlight/static/media/bbg4.131d26a0f433424cf0a7.png",
+    "static/media/bbg1.png": "/brightlight/static/media/bbg1.7ce12c898f2fbeacc283.png",
+    "static/media/community.jpg": "/brightlight/static/media/community.b1e1efad260c30dcf7ef.jpg",
+    "static/media/allocation.png": "/brightlight/static/media/allocation.991aa23d66d03bae4c32.png",
+    "static/media/maingb5.jpg": "/brightlight/static/media/maingb5.e3d5b774527f93ba262e.jpg",
     "static/media/BebasNeue-Regular.ttf": "/brightlight/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/solana-sol-logo_1solana-sol-logo.webp": "/brightlight/static/media/solana-sol-logo_1solana-sol-logo.69913ae832af9c840ff5.webp",
     "static/media/usdc.webp": "/brightlight/static/media/usdc.b9697c97b08ef77bcc54.webp",
     "index.html": "/brightlight/index.html",
     "main.7f92df7e.css.map": "/brightlight/static/css/main.7f92df7e.css.map",
-    "main.c9cfd9e3.js.map": "/brightlight/static/js/main.c9cfd9e3.js.map",
+    "main.a1a261cf.js.map": "/brightlight/static/js/main.a1a261cf.js.map",
     "453.52c63e2b.chunk.js.map": "/brightlight/static/js/453.52c63e2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f92df7e.css",
-    "static/js/main.c9cfd9e3.js"
+    "static/js/main.a1a261cf.js"
   ]
 }
