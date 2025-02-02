@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/brightlight/static/css/main.7f92df7e.css",
-    "main.js": "/brightlight/static/js/main.a1a261cf.js",
+    "main.css": "/brightlight/static/css/main.fbf35463.css",
+    "main.js": "/brightlight/static/js/main.42a48d6b.js",
     "static/js/453.52c63e2b.chunk.js": "/brightlight/static/js/453.52c63e2b.chunk.js",
     "static/media/bbg4.png": "/brightlight/static/media/bbg4.131d26a0f433424cf0a7.png",
     "static/media/bbg1.png": "/brightlight/static/media/bbg1.7ce12c898f2fbeacc283.png",
     "static/media/community.jpg": "/brightlight/static/media/community.b1e1efad260c30dcf7ef.jpg",
-    "static/media/allocation.png": "/brightlight/static/media/allocation.991aa23d66d03bae4c32.png",
+    "static/media/allocation.png": "/brightlight/static/media/allocation.70d526ce9068b195f393.png",
     "static/media/maingb5.jpg": "/brightlight/static/media/maingb5.e3d5b774527f93ba262e.jpg",
     "static/media/BebasNeue-Regular.ttf": "/brightlight/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/solana-sol-logo_1solana-sol-logo.webp": "/brightlight/static/media/solana-sol-logo_1solana-sol-logo.69913ae832af9c840ff5.webp",
     "static/media/usdc.webp": "/brightlight/static/media/usdc.b9697c97b08ef77bcc54.webp",
     "index.html": "/brightlight/index.html",
-    "main.7f92df7e.css.map": "/brightlight/static/css/main.7f92df7e.css.map",
-    "main.a1a261cf.js.map": "/brightlight/static/js/main.a1a261cf.js.map",
+    "main.fbf35463.css.map": "/brightlight/static/css/main.fbf35463.css.map",
+    "main.42a48d6b.js.map": "/brightlight/static/js/main.42a48d6b.js.map",
     "453.52c63e2b.chunk.js.map": "/brightlight/static/js/453.52c63e2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f92df7e.css",
-    "static/js/main.a1a261cf.js"
+    "static/css/main.fbf35463.css",
+    "static/js/main.42a48d6b.js"
   ]
 }
