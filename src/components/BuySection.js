@@ -9,7 +9,7 @@ const BuySection = ({ openDock }) => (
     className="py-16 bg-white buy lg:px-24 xl:px-72 h-[60vh] flex flex-col justify-center"
   >
     <div className="container px-4 mx-auto text-center">
-      <h2 className="mb-8 text-5xl font-bold">Buy $BOBI with Crypto!</h2>
+      <h2 className="mb-8 text-5xl font-bold">Buy $KENZO with Crypto!</h2>
       <div className="flex items-center justify-center gap-10 mb-8">
         <div className="flex flex-col justify-center rounded-full">
           <img src={usdc8} className="w-24 h-auto" />
@@ -24,11 +24,12 @@ const BuySection = ({ openDock }) => (
         </button>
       </div>
       <p className="text-black text-[12px]">
-        Be part of a movement that celebrates courage, hope, and the power of
-        community. The BOBI Meme embodies resilience and unity, inspired by the
-        strength to rise above adversity and fight for a future where freedom
-        and opportunity thrive. Together, we stand for ideals that lift us all.
-        Rise with BOBI! ✊{" "}
+        $KENZO MEME champions the inherent potential within every street child.
+        Inspired by Eddy Kenzo's journey from hardship to global acclaim, we
+        dedicate ourselves to e mpowering the underserved youth. By fostering
+        opportunities for growth and creative expression, we aim to inspire and
+        uplift every child to see beyond their circumstances and realize the
+        universe of possibilities that awaits them.{" "}
         <span
           className="text-yellow-500 cursor-pointer"
           onClick={() => openDock("terms")}

@@ -1,5 +1,5 @@
 import { React } from "react";
-import aboutpic from "../assets/images/bg/bbpic1.png";
+import aboutpic from "../assets/images/bg/bbg1.png";
 
 const AboutSection = () => (
   <section
@@ -9,38 +9,35 @@ const AboutSection = () => (
     <div className="container grid gap-8 px-4 py-10 mx-auto md:grid-cols-2 bg-black/30 rounded-xl">
       <div className="text-center md:text-left">
         <h2 className="sticky mb-4 text-3xl font-extrabold uppercase top-20">
-          About Bobi Wine <br />{" "}
+          About KENZO <br />{" "}
           <span className="text-black lowercase">
-            From the Ghetto to a Global Icon of Hope and Freedom
+            From the streets of Kampala to a Global Icon of Hope and Success
           </span>
         </h2>
-        <img src={aboutpic} alt="Bobi Wine" className="rounded-lg shadow-lg" />
+        <img src={aboutpic} alt="KENZO" className="rounded-lg shadow-lg" />
       </div>
       <div className="flex flex-col gap-5">
         <div class="about_left_text">
-          Start trading $BOBI freely on the Blockchain.
+          Start trading $KENZO freely on the Blockchain.
         </div>
         <p className="text-lg leading-relaxed">
-          From the Ghetto streets of Kamwokya to the national stage, Bobi Wine’s
-          story is a living testament to the power of resilience and courage.
-          Born into struggle, he rose through music to become a voice for the
-          voiceless, speaking truth to power in every lyric. <br />
+          From the streets of Kampala to international stages, Eddy Kenzo's
+          story is a beacon of resilience and hope. Born into adversity, he rose
+          through music and became a symbol of the potential within all young
+          people, especially those facing the harsh realities of street life.{" "}
           <br />
-          His journey was not without sacrifice. Bobi faced unimaginable
-          trials—brutality, loss, and imprisonment. In 2018, he stood unbroken
-          after enduring torture and losing his driver, a stark reminder of the
-          cost of standing up against oppression. Through it all, he emerged
-          stronger, lifting his fist high as a symbol of resistance, hope, and
-          determination. <br />
           <br />
-          From representing his people as a Member of Parliament to challenging
-          for the presidency, Bobi Wine became more than a leader—he became a
-          movement. His unwavering strength and fight for justice have made him
-          a global icon of hope, freedom, and prosperity. <br />
+          His journey, marked by persistence and courage, inspires not just
+          music but a call to action for all who believe in the power of dreams.
+          Kenzo’s life teaches us that any challenge can be overcome with hope
+          and hard work. <br />
           <br />
-          His strength and courage ignited a movement, becoming the most
-          memorable meme of our time. Celebrate the ideals Bobi Wine stands
-          for—hope, freedom, and the dream of a brighter tomorrow.
+          Today, as a celebrated artist, Kenzo continues to advocate for the
+          youth, giving voice to the voiceless and inspiring a new generation to
+          rise above their circumstances. <br />
+          <br />
+          Celebrate the ideals Eddy Kenzo stands for—hope, empowerment, and the
+          dream of a brighter tomorrow for all children worldwide.
         </p>
       </div>
     </div>

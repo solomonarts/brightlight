@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 z-50 bg-[#ff0000] shadow-lg bg-opacity-80 backdrop-blur-md">
       <div className="container flex items-center justify-between px-6 py-4 mx-auto">
-        <div className="text-2xl font-bold text-white">Bobi Wine Memes</div>
+        <div className="text-2xl font-bold text-white">KENZO Memes</div>
         <div className="md:hidden">
           <button
             className="text-2xl text-white focus:outline-none"

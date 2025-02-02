@@ -48,12 +48,13 @@ function ContactAddress() {
         </div>
         <div className="p-10">
           <h6 className="text-center text-[12px]">
-            The $BOBI WINE memes are a tribute to Bobi Wine's values and
-            principles. They are designed to foster community engagement and
-            symbolize solidarity with his vision. These memes are strictly meant
-            for community support and engagement; they are not investments, do
-            not represent investment contracts, and are not to be considered
-            securities in any form.
+            $KENZO MEME champions the inherent potential within every street
+            child. Inspired by Eddy Kenzo's journey from hardship to global
+            acclaim, we dedicate ourselves to e mpowering the underserved youth.
+            By fostering opportunities for growth and creative expression, we
+            aim to inspire and uplift every child to see beyond their
+            circumstances and realize the universe of possibilities that awaits
+            them.
           </h6>
         </div>
       </div>
