@@ -27,7 +27,7 @@ const TermsDock = ({ openDock, setOpenDock }) => {
 
             <h3>Website Ownership: </h3>
             <p>
-              This website, located at www.eddykenzo.com (the “Website”), is a
+              This website, located at www.kenzomeme.com (the “Website”), is a
               community-owned platform managed entirely by the $KENZO Memes
               holders. These Terms and Conditions incorporate by reference our
               Privacy Policy and any other relevant policies or terms that may
@@ -146,7 +146,7 @@ const TermsDock = ({ openDock, setOpenDock }) => {
             <p>
               For questions or concerns about these Terms and Conditions, please
               contact community support at{" "}
-              <strong>support@eddykenzo.com.</strong>
+              <strong>support@kenzomeme.com.</strong>
             </p>
           </div>
           {/* Click outside the dock to close */}

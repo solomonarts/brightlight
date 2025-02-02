@@ -28,7 +28,11 @@ const MemeCommunitySection = () => (
             From the Ghetto to a Global Icon of Hope and Freedom
           </span>
         </h2> */}
-        <img src={memepic} alt="KENZO" className="rounded-lg" />
+        <img
+          src={memepic}
+          alt="KENZO"
+          className="object-bottom h-full rounded-lg"
+        />
       </div>
     </div>
   </section>
