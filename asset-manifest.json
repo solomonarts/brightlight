@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/brightlight/static/css/main.fbf35463.css",
-    "main.js": "/brightlight/static/js/main.42a48d6b.js",
+    "main.css": "/brightlight/static/css/main.c696725f.css",
+    "main.js": "/brightlight/static/js/main.61685c95.js",
     "static/js/453.52c63e2b.chunk.js": "/brightlight/static/js/453.52c63e2b.chunk.js",
     "static/media/bbg4.png": "/brightlight/static/media/bbg4.131d26a0f433424cf0a7.png",
     "static/media/bbg1.png": "/brightlight/static/media/bbg1.7ce12c898f2fbeacc283.png",
-    "static/media/community.jpg": "/brightlight/static/media/community.b1e1efad260c30dcf7ef.jpg",
+    "static/media/community.jpg": "/brightlight/static/media/community.f4ded9b446fceac2a972.jpg",
+    "static/media/MK010.png": "/brightlight/static/media/MK010.8b7d4a8f2d625e9065f3.png",
     "static/media/allocation.png": "/brightlight/static/media/allocation.70d526ce9068b195f393.png",
-    "static/media/maingb5.jpg": "/brightlight/static/media/maingb5.e3d5b774527f93ba262e.jpg",
+    "static/media/MK009.png": "/brightlight/static/media/MK009.c2f11c2053cba15ee4f7.png",
+    "static/media/mainbg5.jpg": "/brightlight/static/media/mainbg5.ac0ea16de52aa9c956ce.jpg",
     "static/media/BebasNeue-Regular.ttf": "/brightlight/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/solana-sol-logo_1solana-sol-logo.webp": "/brightlight/static/media/solana-sol-logo_1solana-sol-logo.69913ae832af9c840ff5.webp",
     "static/media/usdc.webp": "/brightlight/static/media/usdc.b9697c97b08ef77bcc54.webp",
     "index.html": "/brightlight/index.html",
-    "main.fbf35463.css.map": "/brightlight/static/css/main.fbf35463.css.map",
-    "main.42a48d6b.js.map": "/brightlight/static/js/main.42a48d6b.js.map",
+    "main.c696725f.css.map": "/brightlight/static/css/main.c696725f.css.map",
+    "main.61685c95.js.map": "/brightlight/static/js/main.61685c95.js.map",
     "453.52c63e2b.chunk.js.map": "/brightlight/static/js/453.52c63e2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbf35463.css",
-    "static/js/main.42a48d6b.js"
+    "static/css/main.c696725f.css",
+    "static/js/main.61685c95.js"
   ]
 }
