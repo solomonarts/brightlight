@@ -30,8 +30,8 @@ function ContactAddress() {
   return (
     <Context.Provider value={contextValue}>
       {contextHolder}
-      <div className="bottom-0 flex flex-col items-center justify-center h-[60vh] border-b-[#9d0505] border-b-4 lg:px-24 xl:px-72">
-        <h6 className="text-[50px] font-bold mb-4 text-[#ff0000] text-center mt-5">
+      <div className="bottom-0 flex flex-col items-center justify-center h-[60vh] border-b-[#f16b1d] border-b-4 lg:px-24 xl:px-72">
+        <h6 className="text-[50px] font-bold mb-4 text-[#ff7b00] text-center mt-5">
           Solana Contract Address
         </h6>
         <div className="w-11/12 p-1 bg-black rounded-lg bg-opacity-90 md:w-3/5">
@@ -39,7 +39,7 @@ function ContactAddress() {
             <span className="flex-grow text-white truncate">{address}</span>
             <button
               type="primary"
-              className="px-4 py-2 text-white bg-[#ff0000] rounded-lg hover:bg-red-500"
+              className="px-4 py-2 text-white bg-[#ff7b00] rounded-lg hover:bg-orange-500"
               onClick={handleCopy}
             >
               Copy Address
@@ -48,13 +48,12 @@ function ContactAddress() {
         </div>
         <div className="p-10">
           <h6 className="text-center text-[12px]">
-            $KENZO MEME champions the inherent potential within every street
-            child. Inspired by Eddy Kenzo's journey from hardship to global
-            acclaim, we dedicate ourselves to e mpowering the underserved youth.
-            By fostering opportunities for growth and creative expression, we
-            aim to inspire and uplift every child to see beyond their
-            circumstances and realize the universe of possibilities that awaits
-            them.
+            $FOM Meme champions the inherent potential within every street
+            child. Inspired by FOM's journey from hardship to global acclaim, we
+            dedicate ourselves to e mpowering the underserved youth. By
+            fostering opportunities for growth and creative expression, we aim
+            to inspire and uplift every child to see beyond their circumstances
+            and realize the universe of possibilities that awaits them.
           </h6>
         </div>
       </div>

@@ -9,26 +9,26 @@ const FAQSection = () => (
       <div className="space-y-4">
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            What are $KENZO memes?
+            What are $FOM Memes?
           </summary>
           <p className="p-4">
-            $KENZO memes are unique digital creations minted on the Solana
+            $FOM Memes are unique digital creations minted on the Solana
             blockchain. They symbolize the values of hope, resilience, and
-            success inspired by Eddy Kenzo’s journey. These memes are not
-            investments or securities but are designed to foster community
-            engagement and support for underprivileged Ghetto kids globally.
+            success inspired by FOM’s journey. These memes are not investments
+            or securities but are designed to foster community engagement and
+            support for underprivileged Ghetto kids globally.
           </p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            Is this an official product run and managed by KENZO?
+            Is this an official product run and managed by FOM?
           </summary>
           <p className="p-4">
-            No, this is not an official product run or managed by Eddy Kenzo.
-            The $KENZO meme project is an independent, community-driven
-            initiative inspired by his values and journey. While KENZO's story
-            serves as the inspiration, he is not involved in managing or
-            overseeing the project, his role is symbolic.
+            No, this is not an official product run or managed by FOM. The $FOM
+            Meme project is an independent, community-driven initiative inspired
+            by his values and journey. While FOM's story serves as the
+            inspiration, he is not involved in managing or overseeing the
+            project, his role is symbolic.
           </p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
@@ -38,8 +38,8 @@ const FAQSection = () => (
           <p className="p-4">
             A meme is a digital expression, often in the form of an image, text,
             or artwork, that conveys a cultural or emotional idea. In the
-            context of the $KENZO meme project, memes are unique digital
-            creations minted on the blockchain that represent values like hope,
+            context of the $FOM Meme project, memes are unique digital creations
+            minted on the blockchain that represent values like hope,
             resilience, and success. These memes are symbols of solidarity and
             community, inspiring people to support the movement and its mission
             to uplift underprivileged Ghetto kids worldwide.
@@ -47,21 +47,19 @@ const FAQSection = () => (
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            On which Blockchain are $KENZO WINE memes minted?
+            On which Blockchain are $FOM memes minted?
           </summary>
-          <p className="p-4">
-            $KENZO memes are minted on the Solana blockchain.
-          </p>
+          <p className="p-4">$FOM Memes are minted on the Solana blockchain.</p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            What is the official contract address of $KENZO meme?
+            What is the official contract address of $FOM Meme?
           </summary>
           <p className="p-4">xx</p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            How can I get $KENZO memes?
+            How can I get $FOM Memes?
           </summary>
           <p className="p-4">
             Buy on Raydium{" "}
@@ -72,13 +70,13 @@ const FAQSection = () => (
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            How will the $KENZO WINE meme project help Ghetto kids?
+            How will the $FOM meme project help Ghetto kids?
           </summary>
           <p className="p-4">
-            25% of $KENZO WINE memes is allocated to Donations to help fund
-            programs such as education, talent development, and community
-            centers for underprivileged children. Each holder contributes to
-            this mission, creating a tangible impact and transforming lives.
+            25% of $FOM memes is allocated to Donations to help fund programs
+            such as education, talent development, and community centers for
+            underprivileged children. Each holder contributes to this mission,
+            creating a tangible impact and transforming lives.
           </p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
@@ -86,20 +84,20 @@ const FAQSection = () => (
             Is this a political project?
           </summary>
           <p className="p-4">
-            No, this is not a political project. The $KENZO memes are about
+            No, this is not a political project. The $FOM Memes are about
             promoting values like unity, resilience, and hope—not about politics
             or any government-related agenda.
           </p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
           <summary className="p-4 font-semibold cursor-pointer">
-            What role does KENZO play in this initiative?
+            What role does FOM play in this initiative?
           </summary>
           <p className="p-4">
-            KENZO serves as an inspirational figure for the values the memes
+            FOM serves as an inspirational figure for the values the memes
             represent. His involvement is symbolic and focused on supporting
             charitable efforts. The project is driven by a decentralized
-            community and not KENZO.
+            community and not FOM.
           </p>
         </details>
         <details className="text-black bg-gray-100 rounded-lg shadow">
@@ -107,7 +105,7 @@ const FAQSection = () => (
             How can I contribute to this project?
           </summary>
           <p className="p-4">
-            You can contribute by acquiring $KENZO memes, sharing the movement’s
+            You can contribute by acquiring $FOM Memes, sharing the movement’s
             message, and participating in community-driven activities like
             voting for donation drives or supporting local initiatives.
           </p>

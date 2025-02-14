@@ -9,9 +9,9 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="sticky top-0 z-50 bg-[#ff0000] shadow-lg bg-opacity-80 backdrop-blur-md">
+    <nav className="sticky top-0 z-50 bg-[#ff7b00] shadow-lg bg-opacity-80 backdrop-blur-md">
       <div className="container flex items-center justify-between px-6 py-4 mx-auto">
-        <div className="text-2xl font-bold text-white">KENZO Memes</div>
+        <div className="text-2xl font-bold text-white">FOM Memes</div>
         <div className="md:hidden">
           <button
             className="text-2xl text-white focus:outline-none"
@@ -60,7 +60,7 @@ const Navbar = () => {
         </ul>
       </div>
       {isMenuOpen && (
-        <div className="flex flex-col items-center py-4 space-y-4 bg-[#ff0000] md:hidden bg-opacity-90">
+        <div className="flex flex-col items-center py-4 space-y-4 bg-[#ff7b00] md:hidden bg-opacity-90">
           <a
             href="#home"
             className="text-lg text-white transition hover:text-black"
